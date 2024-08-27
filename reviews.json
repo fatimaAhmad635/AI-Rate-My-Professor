@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "Professor": "Dr. Elizabeth Carter",
+        "Subject": "Biology",
+        "stars": 4,
+        "review": "Engaging lectures and fair exams. Could improve on office hours availability."
+      },
+      {
+        "Professor": "Prof. James Wilson",
+        "Subject": "History",
+        "stars": 5,
+        "review": "Passionate about the subject. Makes complex topics easy to understand."
+      },
+      {
+        "Professor": "Dr. Sarah Lee",
+        "Subject": "Computer Science",
+        "stars": 3,
+        "review": "Knowledgeable but sometimes moves too fast through difficult concepts."
+      },
+      {
+        "Professor": "Prof. Michael Brown",
+        "Subject": "Mathematics",
+        "stars": 4,
+        "review": "Clear explanations and helpful problem-solving strategies."
+      },
+      {
+        "Professor": "Dr. Emily Rodriguez",
+        "Subject": "Psychology",
+        "stars": 5,
+        "review": "Inspiring teacher. Encourages critical thinking and class participation."
+      },
+      {
+        "Professor": "Prof. David Kim",
+        "Subject": "Economics",
+        "stars": 2,
+        "review": "Lectures are dry and assignments are unclear. Needs improvement."
+      },
+      {
+        "Professor": "Dr. Lisa Chen",
+        "Subject": "Chemistry",
+        "stars": 4,
+        "review": "Well-organized lab sessions and comprehensive lecture notes."
+      },
+      {
+        "Professor": "Prof. Robert Taylor",
+        "Subject": "Philosophy",
+        "stars": 5,
+        "review": "Thought-provoking discussions. Challenges students in the best way possible."
+      },
+      {
+        "Professor": "Dr. Anna Novak",
+        "Subject": "Physics",
+        "stars": 3,
+        "review": "Brilliant mind but struggles to explain complex concepts to beginners."
+      },
+      {
+        "Professor": "Prof. Thomas Greene",
+        "Subject": "English Literature",
+        "stars": 4,
+        "review": "Passionate about books. Assignments are creative and engaging."
+      },
+      {
+        "Professor": "Dr. Maria Sanchez",
+        "Subject": "Sociology",
+        "stars": 5,
+        "review": "Brings real-world examples into class. Highly relevant and interesting."
+      },
+      {
+        "Professor": "Prof. John Doe",
+        "Subject": "Political Science",
+        "stars": 2,
+        "review": "Often goes off-topic. Grading seems arbitrary at times."
+      },
+      {
+        "Professor": "Dr. Rachel Green",
+        "Subject": "Environmental Science",
+        "stars": 4,
+        "review": "Passionate about sustainability. Field trips are a great learning experience."
+      },
+      {
+        "Professor": "Prof. William Chang",
+        "Subject": "Art History",
+        "stars": 5,
+        "review": "Encyclopedic knowledge of art. Makes every lecture fascinating."
+      },
+      {
+        "Professor": "Dr. Karen White",
+        "Subject": "Neuroscience",
+        "stars": 3,
+        "review": "Cutting-edge research shared in class, but expectations can be unclear."
+      },
+      {
+        "Professor": "Prof. Hassan Ali",
+        "Subject": "International Relations",
+        "stars": 4,
+        "review": "Balanced viewpoints on complex global issues. Encourages debate."
+      },
+      {
+        "Professor": "Dr. Olivia Parker",
+        "Subject": "Genetics",
+        "stars": 5,
+        "review": "Excellent at simplifying complex concepts. Always available for help."
+      },
+      {
+        "Professor": "Prof. Gregory Lewis",
+        "Subject": "Music Theory",
+        "stars": 2,
+        "review": "Knows the subject well but is often unprepared for class."
+      },
+      {
+        "Professor": "Dr. Sophia Rossi",
+        "Subject": "Anthropology",
+        "stars": 4,
+        "review": "Fascinating course content. Could improve on providing feedback."
+      },
+      {
+        "Professor": "Prof. Andrew Black",
+        "Subject": "Business Ethics",
+        "stars": 3,
+        "review": "Interesting case studies but lectures can be monotonous."
+      }
+    ]
+  }
